@@ -1,4 +1,4 @@
-# [ᴘᴛ-ʙʀ] Monitor de Integridade de Arquivos (Linux e Windows) 
+# [ᴘᴛ-ʙʀ] Monitor de Integridade de Arquivos (Linux e Windows) - *versão básica*
 #### **[🇪​​​​​🇳​​​​​-🇺​​​​​🇸] File Integrity Monitor (Linux and Windows)**
 
 Estes scripts Python monitoram diretórios específicos em sistemas Linux e Windows, verificando se houve alguma alteração nos arquivos contidos neles.   
